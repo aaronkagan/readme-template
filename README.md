@@ -1,6 +1,6 @@
 # Name of Project
 
-Short descrition goes here ...
+Short description goes here ...
 
 ## Table of contents
 
